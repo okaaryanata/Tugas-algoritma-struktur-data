@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1449044319 source:e:\kuliah\semester3\praktikum asd\tubesasd\main.cpp
+	<iostream>
+	"HEADER.h"
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1449077286 e:\kuliah\semester3\praktikum asd\tubesasd\header.h
+	<string.h>
+	<iostream>
+	<cstdlib>
+
+1449077447 source:e:\kuliah\semester3\praktikum asd\tubesasd\fungsi.cpp
+	"HEADER.h"
+	<string.h>
+	<iostream>
+	<conio.h>
+	<stdio.h>
+
+1449097779 source:c:\users\okaaryanata\desktop\tubesasd\tubesasd\fungsi.cpp
+	"HEADER.h"
+	<string.h>
+	<iostream>
+	<conio.h>
+	<stdio.h>
+
+1449077286 c:\users\okaaryanata\desktop\tubesasd\tubesasd\header.h
+	<string.h>
+	<iostream>
+	<cstdlib>
+
+1449044319 source:c:\users\okaaryanata\desktop\tubesasd\tubesasd\main.cpp
+	<iostream>
+	"HEADER.h"
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1449044319 source:c:\users\okaaryanata\desktop\3\tubesasd\tubesasd\main.cpp
+	<iostream>
+	"HEADER.h"
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1449077286 c:\users\okaaryanata\desktop\3\tubesasd\tubesasd\header.h
+	<string.h>
+	<iostream>
+	<cstdlib>
+
+1450964282 source:c:\users\okaaryanata\desktop\3\tubesasd\tubesasd\fungsi.cpp
+	"HEADER.h"
+	<string.h>
+	<iostream>
+	<conio.h>
+	<stdio.h>
+
