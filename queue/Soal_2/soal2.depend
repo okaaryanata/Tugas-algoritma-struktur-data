@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1447143113 source:d:\tugasif\tahun2\semester3\asd\kuis\soal2\main.cpp
+	"queue.h"
+
+1447142757 d:\tugasif\tahun2\semester3\asd\kuis\soal2\queue.h
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+
+1447143202 source:d:\tugasif\tahun2\semester3\asd\kuis\soal2\struktur.cpp
+	"queue.h"
+
+1447143113 source:f:\tel-u\semester 3\asd\queue\soal2\main.cpp
+	"queue.h"
+
+1447142757 f:\tel-u\semester 3\asd\queue\soal2\queue.h
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+
+1447143202 source:f:\tel-u\semester 3\asd\queue\soal2\struktur.cpp
+	"queue.h"
+

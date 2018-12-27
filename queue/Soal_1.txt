@@ -1,0 +1,8 @@
+SOAL :
+Ada 2 loket, A dan B. Petugas menginputkan user yang mengantri di tiap loket.
+User dibagi menjadi user yang mengantri di loket A dan yang mengantri di loket B.
+Dalam menu program tersedia :
+- input user dan loket tempatnya mengantri
+- menampilkan user yang mengantri di tiap loket
+- layani antrian, petugas akan memasukan loket A/B untuk dilayani terlebih dahulu.
+Buatlah program dengan ketentuan seperti diatas menggunakan queue single linked list.

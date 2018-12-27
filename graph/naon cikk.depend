@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1448205918 source:d:\programming\c_cs_cpp\code__blocks\naon cikk\graph.cpp
+	<iostream>
+	"graph.h"
+
+1448206109 d:\programming\c_cs_cpp\code__blocks\naon cikk\graph.h
+
+1448206016 source:d:\programming\c_cs_cpp\code__blocks\naon cikk\main.cpp
+	"graph.h"
+	<iostream>
+
+1448205918 source:c:\users\okaaryanata\desktop\naon cikk\naon cikk\graph.cpp
+	<iostream>
+	"graph.h"
+
+1448206109 c:\users\okaaryanata\desktop\naon cikk\naon cikk\graph.h
+
+1448206109 source:c:\users\okaaryanata\desktop\naon cikk\naon cikk\main.cpp
+	"graph.h"
+	<iostream>
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1446956972 source:/home/rizqillah/Downloads/[ASD] TP Modul 8/Modul 8/main.cpp
+	<iostream>
+	"queue.h"
+
+1446956978 /home/rizqillah/Downloads/[ASD] TP Modul 8/Modul 8/queue.h
+
+1446957150 source:/home/rizqillah/Downloads/[ASD] TP Modul 8/Modul 8/queue.cpp
+	"queue.h"
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1446956972 source:c:\users\okaaryanata\desktop\modul 8\modul 8\main.cpp
+	<iostream>
+	"queue.h"
+
+1446956978 c:\users\okaaryanata\desktop\modul 8\modul 8\queue.h
+

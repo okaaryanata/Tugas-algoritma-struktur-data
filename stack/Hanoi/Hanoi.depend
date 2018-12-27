@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1446422393 source:d:\semester 3 telkom\praktikum algoritma dan struktur data\source code\modul 7\hanoi\konstruktor.cpp
+	<iostream>
+	"Haniolist.h"
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<iomanip>
+
+1446220776 d:\semester 3 telkom\praktikum algoritma dan struktur data\source code\modul 7\hanoi\haniolist.h
+
+1446257364 source:d:\semester 3 telkom\praktikum algoritma dan struktur data\source code\modul 7\hanoi\main.cpp
+	<iostream>
+	"Haniolist.h"
+	<conio.h>
+	<windows.h>
+

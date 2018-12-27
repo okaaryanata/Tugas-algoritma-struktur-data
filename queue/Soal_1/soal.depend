@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1447133781 source:f:\tel-u\semester 3\asd\queue\soal\main.cpp
+	"queue.h"
+
+1447133544 f:\tel-u\semester 3\asd\queue\soal\queue.h
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+
+1447133823 source:f:\tel-u\semester 3\asd\queue\soal\struktur.cpp
+	"queue.h"
+

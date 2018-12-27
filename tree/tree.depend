@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1447580436 source:c:\users\boss-pc\desktop\tree\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	"tree.h"
+
+1447583574 c:\users\boss-pc\desktop\tree\tree.h
+
+1447583577 source:c:\users\boss-pc\desktop\tree\source.cpp
+	<iostream>
+	"tree.h"
+

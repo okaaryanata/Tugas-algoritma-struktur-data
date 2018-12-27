@@ -1,0 +1,8 @@
+SOAL :
+seorang petugas menara atc memiliki tugas untuk menginputkan data pesawat yang akan mendarat ataupun terbang. 
+petugas mengatur penerbangan yang dibedakan berdasarkan mendarat(landing) atau terbang(take off)
+Dalam menu program tersedia :
+- input pesawat dan jenis penerbangan apakah landing ataupun take off
+- menampilkan pesawat yang mengantri
+- layani antrian, petugas akan memerintahkan pesawat untuk take off ataupun landing berdasarkan urutan.
+Buatlah program dengan ketentuan seperti diatas menggunakan queue single linked list.

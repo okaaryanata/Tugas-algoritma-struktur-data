@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1447170416 source:d:\programming\c_cs_cpp\code__blocks\queuee\fungsi.cpp
+	"adtqueue.h"
+	<iostream>
+
+1447169345 d:\programming\c_cs_cpp\code__blocks\queuee\adtqueue.h
+
+1447170735 source:d:\programming\c_cs_cpp\code__blocks\queuee\main.cpp
+	<iostream>
+	"adtqueue.h"
+	<cstdio>
+	<cstdlib>
+	<conio.h>
+
